@@ -1,0 +1,5 @@
+============================
+Example.txt
+============================
+
+You can edit a basic document file in iEditor.
